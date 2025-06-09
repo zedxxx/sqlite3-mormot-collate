@@ -1,0 +1,6 @@
+/.bin/*
+/.dcu/*
+*.dproj.local
+*.dsk
+*.identcache
+*.lps
